@@ -14,5 +14,6 @@ This project uses a convolutional neural network (CNN) to classify images of cat
 
 Clone the repository install libraries and train the model with tthe dataset and test it.
 
- ##Dataset
+ ## Dataset
+ 
 [dogs va cat dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats?resource=download)
