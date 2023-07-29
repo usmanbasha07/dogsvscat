@@ -1,6 +1,6 @@
 # Cat vs Dog Image Classification
 
-This project uses a convolutional neural network (CNN) to classify images of cats and dogs. The CNN is trained on a dataset of 20,000 images, and it is able to achieve an accuracy of over 90%.
+This project uses a convolutional neural network (CNN) to classify images of cats and dogs. The CNN is trained on a dataset of 10,000 images, and it is able to achieve an accuracy of over 99%.
 
 ## Dependencies
 
@@ -12,6 +12,7 @@ This project uses a convolutional neural network (CNN) to classify images of cat
 
 ## Installation
 
-To install the dependencies, you can use the following command:
+Clone the repository install libraries and train the model with tthe dataset and test it.
 
-pip install 
+ ##Dataset
+[dogs va cat dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats?resource=download)
