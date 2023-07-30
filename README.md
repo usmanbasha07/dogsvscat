@@ -1,6 +1,6 @@
 # Cat vs Dog Image Classification
 
-This project uses a convolutional neural network (CNN) to classify images of cats and dogs. The CNN is trained on a dataset of 10,000 images, and it is able to achieve an accuracy of over 99%.
+This project uses a convolutional neural network (CNN) to classify images of cats and dogs. The CNN is trained on a dataset of 20,000 images, and it is able to achieve an accuracy of over 99%.
 
 ## Dependencies
 
