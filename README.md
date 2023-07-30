@@ -8,11 +8,10 @@ This project uses a convolutional neural network (CNN) to classify images of cat
 * TensorFlow 1.10
 * NumPy
 * Matplotlib
-* Seaborn
 
 ## Installation
 
-Clone the repository install libraries and train the model with tthe dataset and test it.
+Clone the repository install libraries and train the model with the dataset and test it.
 
  ## Dataset
  
