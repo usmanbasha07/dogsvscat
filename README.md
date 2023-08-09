@@ -15,4 +15,4 @@ Clone the repository install libraries and train the model with the dataset and 
 
  ## Dataset
  
-[dogs va cat dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats?resource=download)
+[dogs vs cat dataset](https://www.kaggle.com/datasets/salader/dogs-vs-cats?resource=download)
